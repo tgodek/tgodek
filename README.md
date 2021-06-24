@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tomislav
 #### I'm an Android and Web developer
-![I'm an Android and Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm an Android and Web developer](https://github.com/tgodek/tgodek/blob/main/banner.png)
 
 Im a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps.
 Currently im working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
