@@ -2,7 +2,7 @@
 #### I'm an Android and Web developer
 ![I'm an Android and Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Im a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps. Currently im working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
+Im a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps.\nCurrently im working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
 
 Skills: KOTLIN/ REACT/ JS / CSS / NODE.JS / MYSQL / MONGODB
 
