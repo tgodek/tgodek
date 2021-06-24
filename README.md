@@ -4,7 +4,7 @@
 Im a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps.
 Currently im working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
 
-Skills: KOTLIN/ REACT/ JS / CSS / NODE.JS / MYSQL / MONGODB
+Skills: KOTLIN/ REACT/ JS / CSS / NODEJS / MYSQL / MONGODB
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Kotlin Compose 
