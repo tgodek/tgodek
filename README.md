@@ -3,7 +3,7 @@
 
 I'm a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps. Currently working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
 
-Skills: KOTLIN/ REACT/ JS / CSS / NODEJS / MYSQL / POSTGRESQL /MONGODB
+Skills: KOTLIN/ REACT/ JS / CSS / NODEJS / MYSQL / POSTGRESQL / MONGODB
 
 - 🌱 I’m currently learning Jetpack Compose 
 - ⚡ Fun fact: I love to workout and watch TV Shows 
