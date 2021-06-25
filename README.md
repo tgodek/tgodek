@@ -5,7 +5,7 @@ I'm a Computer Science Student from Croatia and in my free time i like to make A
 
 Skills: KOTLIN/ REACT/ JS / CSS / NODEJS / MYSQL / MONGODB
 
-- 🌱 I’m currently learning Kotlin Compose 
+- 🌱 I’m currently learning Jetpack Compose 
 - ⚡ Fun fact: I love to workout and watch TV Shows 
 
 
