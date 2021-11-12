@@ -1,7 +1,7 @@
 ![Banner](https://github.com/tgodek/tgodek/blob/main/MyBanner.png)
 #### Android & Web developer
 
-I'm a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps. Currently working on a TV Show recommendation App so that others and I dont miss out on new TV Shows.
+I'm a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps.
 
 Skills: KOTLIN/ REACT/ JS / CSS / NODEJS / MYSQL / POSTGRESQL / MONGODB
 
