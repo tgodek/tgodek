@@ -1,9 +1,9 @@
 ![Banner](https://github.com/tgodek/tgodek/blob/main/MyBanner.png)
-#### Android & Web developer
+#### Native Mobile Developer
 
-I'm a Computer Science Student from Croatia and in my free time i like to make Android and Web Apps.
+I'm a Computer Science Student from Croatia that likes to make Android and IOS Apps.
 
-Skills: KOTLIN / C# / REACT / JS / CSS / NODEJS / MYSQL / POSTGRESQL / MONGODB
+Skills: KOTLIN / SWIFT / REACT / C# /
 
 - ⚡ Fun fact: I love to workout and watch TV Shows 
 
