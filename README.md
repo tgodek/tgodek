@@ -1,7 +1,7 @@
 ![Banner](https://github.com/tgodek/tgodek/blob/main/MyBanner.png)
 #### Native Mobile Developer
 
-I'm a Computer Science Student from Croatia that likes to make Android and IOS Apps.
+I'm a Computer Science Student from Croatia that likes to make Android and iOS Apps.
 
 Skills: KOTLIN / SWIFT / REACT / C# /
 
