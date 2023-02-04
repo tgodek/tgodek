@@ -1,4 +1,3 @@
-![Banner](https://github.com/tgodek/tgodek/blob/main/MyBanner.png)
 #### Mobile Developer
 
 
