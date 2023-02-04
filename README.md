@@ -2,7 +2,7 @@
 #### Mobile Developer
 
 
-Skills: KOTLIN | SWIFT | REACT
+Languages: KOTLIN / SWIFT
 
 - Currenty working as a native iOS Developer
 - Exploring SwiftUI and Jetpack Compose
